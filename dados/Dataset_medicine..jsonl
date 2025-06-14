@@ -1,0 +1,401 @@
+[
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 28 anos, queixa-se de ardência ao urinar, necessidade frequente de ir ao banheiro mesmo com pouca urina, e dor na parte inferior da barriga há dois dias."},
+      {"role": "assistant", "content": "Com base nos sintomas de ardência ao urinar, urgência miccional e dor suprapúbica, o diagnóstico definitivo é **infecção do trato urinário (ITU)**, provavelmente uma cistite. Recomenda-se uma consulta médica para possível urocultura e início de antibioticoterapia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 19 anos, relata que após comer um sanduíche em uma lanchonete desconhecida há cerca de 6 horas, começou a sentir fortes cólicas abdominais, náuseas, vômitos e diarreia aquosa."},
+      {"role": "assistant", "content": "Considerando o início agudo de cólicas abdominais, náuseas, vômitos e diarreia aquosa após a ingestão de alimentos de procedência duvidosa, o diagnóstico definitivo é **intoxicação alimentar**. A hidratação oral é fundamental, e se os sintomas forem muito intensos ou persistentes, uma avaliação médica pode ser necessária para suporte e para descartar outras causas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 45 anos, apresenta tosse seca persistente há três semanas, acompanhada de febre baixa no final da tarde, sudorese noturna e perda de peso não intencional."},
+      {"role": "assistant", "content": "Os sintomas de tosse crônica, febre vespertina, sudorese noturna e perda de peso são altamente sugestivos de **tuberculose pulmonar**. É crucial procurar avaliação médica imediata para exames diagnósticos (como baciloscopia e radiografia de tórax) e início do tratamento específico, se confirmado."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 35 anos, refere dor de cabeça pulsátil, geralmente de um lado só, acompanhada de náuseas e sensibilidade à luz e ao som. Os episódios duram de algumas horas a um dia e ela já teve crises semelhantes antes."},
+      {"role": "assistant", "content": "Pela descrição de dor de cabeça unilateral pulsátil, com náuseas, fotofobia e fonofobia, e o caráter recorrente, o diagnóstico definitivo é **enxaqueca (migrânea)**. Recomenda-se acompanhamento médico para manejo das crises e, se necessário, tratamento profilático."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 60 anos, diabético, queixa-se de dor tipo queimação nos pés, principalmente à noite, formigamento e perda de sensibilidade progressiva nos membros inferiores há alguns meses."},
+      {"role": "assistant", "content": "Os sintomas de dor em queimação, formigamento e perda de sensibilidade nos pés em um paciente diabético são característicos de **neuropatia diabética periférica**. É fundamental um controle glicêmico rigoroso e acompanhamento com endocrinologista e neurologista para manejo dos sintomas e prevenção de complicações."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Criança, 5 anos, apresenta febre alta há 2 dias, dor de garganta intensa, recusa alimentar e aparecimento de pequenas bolhas dolorosas nas mãos, pés e dentro da boca."},
+      {"role": "assistant", "content": "Com base na febre, dor de garganta e lesões vesiculares em mãos, pés e boca, o diagnóstico definitivo é **Síndrome Mão-Pé-Boca**, uma infecção viral comum na infância. O tratamento é sintomático, com foco em hidratação e alívio da dor. Recomenda-se avaliação pediátrica para confirmação e orientação."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 22 anos, relata aparecimento súbito de placas avermelhadas elevadas na pele, que coçam intensamente, após ter comido camarão. As lesões mudam de lugar."},
+      {"role": "assistant", "content": "O surgimento agudo de placas eritematosas, edematosas e pruriginosas (urticas) que migram pela pele, após ingestão de um alimento conhecido por ser alergênico, configura o diagnóstico definitivo de **urticária aguda**, provavelmente de causa alérgica. Anti-histamínicos podem aliviar os sintomas. Se houver inchaço de lábios/língua ou dificuldade para respirar, procurar emergência imediatamente."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 50 anos, queixa-se de dor no peito tipo aperto, que irradia para o braço esquerdo, com início durante esforço físico e alívio com repouso. Relata episódios semelhantes nas últimas semanas."},
+      {"role": "assistant", "content": "A dor torácica em aperto, irradiada para o membro superior esquerdo, desencadeada por esforço e aliviada com repouso é altamente sugestiva de **angina pectoris**, um sinal de doença arterial coronariana. É imprescindível uma avaliação cardiológica urgente para investigação e tratamento adequado, a fim de prevenir um infarto agudo do miocárdio."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 42 anos, refere cansaço extremo, ganho de peso apesar de dieta controlada, pele seca, queda de cabelo e sensação de frio constante há vários meses."},
+      {"role": "assistant", "content": "O conjunto de sintomas como fadiga crônica, ganho de peso inexplicado, pele seca, queda de cabelo e intolerância ao frio aponta para um diagnóstico definitivo de **hipotireoidismo**. Recomenda-se a realização de exames de função tireoidiana (TSH e T4 livre) e consulta com endocrinologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 25 anos, atleta, sentiu uma dor súbita e aguda na parte posterior da coxa durante uma corrida, com dificuldade para continuar o movimento e sensação de 'pedrada' no local."},
+      {"role": "assistant", "content": "A dor aguda e súbita na região posterior da coxa durante atividade física, com incapacidade funcional e sensação de 'pedrada', é característica de um **estiramento muscular (distensão) dos isquiotibiais**. Recomenda-se repouso, gelo local, compressão e elevação (RICE), e avaliação de um fisioterapeuta ou ortopedista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 65 anos, apresenta dor e inchaço em várias articulações das mãos e joelhos, pior pela manhã, com rigidez matinal que dura mais de uma hora. Sintomas presentes há meses."},
+      {"role": "assistant", "content": "Dor e edema poliarticular, especialmente em mãos e joelhos, com rigidez matinal prolongada, são sintomas clássicos de **artrite reumatoide**. É fundamental uma consulta com reumatologista para confirmação diagnóstica (exames de sangue e imagem) e início de tratamento específico para controlar a doença e prevenir deformidades."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Adolescente, 16 anos, com histórico de rinite alérgica, apresenta chiado no peito, tosse seca e falta de ar, principalmente à noite ou após exercícios. Sintomas pioraram na última semana."},
+      {"role": "assistant", "content": "Considerando o histórico de rinite alérgica e os sintomas de sibilância (chiado), tosse e dispneia (falta de ar) exacerbados à noite ou por esforço, o diagnóstico definitivo é **asma brônquica**. É importante uma avaliação médica para ajustar ou iniciar o tratamento com broncodilatadores e corticosteroides inalatórios, se necessário."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 30 anos, refere dor na região lombar que irradia para a perna direita, acompanhada de formigamento e fraqueza ao tentar levantar o pé. A dor piora ao sentar ou tossir."},
+      {"role": "assistant", "content": "A dor lombar com irradiação para o membro inferior (ciatalgia), associada a parestesia (formigamento) e déficit motor, que piora com manobras de aumento da pressão intratecal, sugere fortemente o diagnóstico definitivo de **hérnia de disco lombar com compressão radicular**. Recomenda-se avaliação por ortopedista ou neurocirurgião, possivelmente com exames de imagem como ressonância magnética."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 55 anos, menopausada, queixa-se de ondas de calor intensas, sudorese noturna, insônia e secura vaginal. Sintomas iniciaram há cerca de um ano."},
+      {"role": "assistant", "content": "Os sintomas de fogachos (ondas de calor), sudorese noturna, insônia e secura vaginal em uma mulher nessa faixa etária são característicos da **síndrome climatérica/menopausa**. Uma consulta ginecológica é recomendada para discutir opções de manejo, incluindo terapia de reposição hormonal, se apropriado."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Criança, 8 anos, com febre, mal-estar, dor de cabeça e aparecimento de lesões avermelhadas que evoluem para pequenas bolhas (vesículas) pruriginosas por todo o corpo, incluindo couro cabeludo."},
+      {"role": "assistant", "content": "O quadro de febre, mal-estar e exantema papulovesicular pruriginoso disseminado é diagnóstico definitivo de **varicela (catapora)**. O tratamento é sintomático, com antitérmicos (evitar AAS), anti-histamínicos e cuidados locais. Manter a criança afastada da escola até as lesões formarem crostas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 20 anos, relata dor intensa e inchaço no dedão do pé direito, de início súbito, principalmente após uma noite de consumo excessivo de álcool e carne vermelha. A articulação está quente e avermelhada."},
+      {"role": "assistant", "content": "A monoartrite aguda, especialmente no hálux (dedão do pé), com sinais inflamatórios intensos (dor, rubor, calor, edema) e histórico de gatilhos como excesso de álcool e purinas, configura um quadro clássico de **crise aguda de gota (artrite gotosa)**. Recomenda-se avaliação médica para confirmação, tratamento da crise com anti-inflamatórios e manejo a longo prazo para controle do ácido úrico."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 30 anos, grávida de 10 semanas, apresenta sangramento vaginal discreto, tipo borra de café, acompanhado de cólicas leves no baixo ventre. Sem febre ou outros sintomas."},
+      {"role": "assistant", "content": "Sangramento vaginal no primeiro trimestre da gestação, mesmo que discreto, acompanhado de cólicas, pode ser um sinal de **ameaça de abortamento**. É fundamental procurar atendimento obstétrico imediato para avaliação ultrassonográfica e acompanhamento adequado para preservar a gestação, se possível."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 68 anos, fumante de longa data, refere tosse produtiva crônica, com expectoração clara ou amarelada, principalmente pela manhã, e dispneia progressiva aos esforços há vários anos."},
+      {"role": "assistant", "content": "Tosse produtiva crônica e dispneia progressiva aos esforços em um paciente fumante são sintomas cardinais da **Doença Pulmonar Obstrutiva Crônica (DPOC)**, provavelmente um quadro de bronquite crônica e enfisema. É essencial avaliação com pneumologista, espirometria para confirmação e estadiamento, e cessação do tabagismo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 25 anos, apresenta múltiplos episódios de dor abdominal tipo cólica, alternando períodos de diarreia e constipação, com sensação de inchaço abdominal, há mais de 6 meses. Exames anteriores normais."},
+      {"role": "assistant", "content": "Dor abdominal crônica recorrente, com alteração do hábito intestinal (diarreia e/ou constipação) e distensão abdominal, na ausência de sinais de alarme ou alterações em exames, é característico da **Síndrome do Intestino Irritável (SII)**. Recomenda-se acompanhamento com gastroenterologista para manejo dietético, sintomático e, se necessário, outras abordagens terapêuticas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 7 anos, queixa-se de dor de ouvido direita intensa, febre e diminuição da audição há um dia. Ontem estava resfriado."},
+      {"role": "assistant", "content": "Dor de ouvido aguda (otalgia), febre e hipoacusia em uma criança, especialmente após um quadro de infecção de vias aéreas superiores, são sinais clássicos de **otite média aguda (OMA)**. Recomenda-se avaliação pediátrica para otoscopia e decisão sobre antibioticoterapia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 38 anos, refere dor na região anterior do pescoço, sensibilidade ao toque, febre, mal-estar e palpitações. Sintomas surgiram após um quadro gripal."},
+      {"role": "assistant", "content": "Dor na região tireoidiana, febre, mal-estar e sintomas de hipertireoidismo (palpitações) após infecção viral são sugestivos de **tireoidite subaguda (de Quervain)**. Exames de função tireoidiana e marcadores inflamatórios são úteis. Acompanhamento com endocrinologista é recomendado."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 52 anos, com sobrepeso, relata azia frequente, regurgitação ácida, principalmente após refeições volumosas ou ao deitar. Tosse seca noturna também presente."},
+      {"role": "assistant", "content": "Azia (pirose), regurgitação ácida e tosse noturna, especialmente relacionados à alimentação e postura, são sintomas típicos da **Doença do Refluxo Gastroesofágico (DRGE)**. Mudanças no estilo de vida e, possivelmente, medicamentos inibidores da bomba de prótons são recomendados. Consultar um gastroenterologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 29 anos, apresenta corrimento vaginal amarelado com odor forte, coceira intensa na região genital e dor durante relações sexuais. Sem outros sintomas sistêmicos."},
+      {"role": "assistant", "content": "Corrimento vaginal de cor alterada, odor fétido, prurido vulvovaginal e dispareunia são indicativos de **vaginite infecciosa**. As causas mais comuns são vaginose bacteriana, candidíase ou tricomoníase. É essencial uma consulta ginecológica para exame especular, coleta de material para análise e tratamento específico."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 18 anos, praticante de natação, queixa-se de coceira, descamação e vermelhidão entre os dedos dos pés, com pequenas bolhas em alguns locais. Sintomas pioram com umidade."},
+      {"role": "assistant", "content": "Prurido, descamação, eritema e vesículas na região interdigital dos pés em um nadador são altamente sugestivos de **tinea pedis (pé de atleta)**, uma infecção fúngica. Recomenda-se o uso de antifúngicos tópicos e medidas de higiene para manter os pés secos. Se não houver melhora, consultar um dermatologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 48 anos, relata dor intensa no quadrante superior direito do abdômen, tipo cólica, que irradia para as costas, após ingestão de alimentos gordurosos. Náuseas e vômitos presentes durante as crises."},
+      {"role": "assistant", "content": "Dor em cólica no hipocôndrio direito, com irradiação para o dorso, desencadeada por alimentos gordurosos e acompanhada de náuseas e vômitos, é característica de **cólica biliar**, provavelmente por colelitíase (pedra na vesícula). Recomenda-se avaliação médica com ultrassonografia abdominal para confirmação e discussão sobre colecistectomia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Forneça diagnósticos provisórios e recomendações."},
+      {"role": "user", "content": "Paciente masculino, 62 anos, hipertenso e diabético, acordou com dificuldade para falar, fraqueza no lado direito do corpo e desvio da boca para a esquerda. Sintomas iniciaram há 1 hora."},
+      {"role": "assistant", "content": "O início súbito de disartria (dificuldade na fala), hemiparesia direita (fraqueza) e desvio de rima labial em um paciente com fatores de risco vascular (hipertensão, diabetes) é altamente sugestivo de um **Acidente Vascular Cerebral (AVC) isquêmico agudo**. É uma emergência médica. Chamar SAMU/serviço de emergência imediatamente para transporte a um hospital com capacidade de tratamento de AVC."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 33 anos, refere aparecimento de lesões avermelhadas, descamativas e pruriginosas nas dobras dos cotovelos e joelhos. Relata histórico familiar de alergias e asma."},
+      {"role": "assistant", "content": "Lesões eritemato-descamativas e pruriginosas em áreas de flexura (cotovelos, joelhos), especialmente com histórico pessoal ou familiar de atopia (alergias, asma), são características de **dermatite atópica (eczema)**. Recomenda-se consulta com dermatologista para confirmação e orientação sobre hidratantes, emolientes e, se necessário, corticosteroides tópicos."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 27 anos, apresenta dor de garganta, febre, gânglios do pescoço inchados e doloridos, e fadiga intensa há uma semana. Amígdalas com placas brancas."},
+      {"role": "assistant", "content": "O quadro de faringite exsudativa (placas brancas), febre, linfadenopatia cervical e fadiga acentuada é muito sugestivo de **mononucleose infecciosa**, causada pelo vírus Epstein-Barr. Testes sorológicos podem confirmar. O tratamento é sintomático. Evitar esportes de contato devido ao risco de ruptura esplênica. Procurar avaliação médica."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 70 anos, queixa-se de dor no joelho direito que piora com o movimento e ao final do dia, com alguma rigidez após repouso. Nota crepitação ao mover o joelho."},
+      {"role": "assistant", "content": "Dor articular no joelho, de caráter mecânico (piora com uso, melhora com repouso), com rigidez de curta duração e crepitação, em uma paciente idosa, é típica de **osteoartrite (artrose) do joelho**. Radiografias podem confirmar. Fisioterapia, analgésicos e perda de peso (se aplicável) são medidas importantes. Consultar ortopedista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 35 anos, relata dor e queimação na 'boca do estômago' (epigástrio), que melhora após comer ou usar antiácidos, mas retorna algumas horas depois. Às vezes acorda à noite com dor."},
+      {"role": "assistant", "content": "Dor epigástrica tipo queimação, com ritmo alimentar (melhora ao comer) e despertar noturno, é sugestiva de **doença ulcerosa péptica**, podendo ser uma úlcera gástrica ou duodenal. A pesquisa de H. pylori e uma endoscopia digestiva alta podem ser necessárias. Consultar gastroenterologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Criança, 2 anos, com febre alta há 3 dias, irritabilidade, coriza e tosse. Hoje, ao baixar a febre, surgiram manchas rosadas no tronco e pescoço, que não coçam."},
+      {"role": "assistant", "content": "O quadro de febre alta por alguns dias seguida pelo aparecimento de exantema maculopapular rosado no tronco e pescoço após a defervescência (queda da febre) é clássico de **exantema súbito (roséola infantum)**, uma doença viral benigna comum na infância. O tratamento é sintomático."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 17 anos, refere ausência de menstruação há 3 meses. Nega atividade sexual. Relata estresse intenso devido a provas e dieta restritiva para perder peso."},
+      {"role": "assistant", "content": "Amenorreia secundária (ausência de menstruação por 3 meses em quem já menstruava) em uma adolescente com histórico de estresse e dieta restritiva pode ser devido à **amenorreia hipotalâmica funcional**. É importante descartar outras causas e avaliar o estado nutricional e hormonal. Consultar ginecologista e, possivelmente, endocrinologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 40 anos, refere dor facial intensa, tipo choque, em um lado do rosto, desencadeada por toque leve, barbear ou escovar os dentes. Dura segundos, mas é excruciante."},
+      {"role": "assistant", "content": "Dor facial unilateral, paroxística (súbita e intensa), tipo choque, em territórios do nervo trigêmeo, desencadeada por estímulos táteis leves, é característica de **neuralgia do trigêmeo**. Recomenda-se avaliação neurológica para confirmação e tratamento, que pode incluir medicamentos anticonvulsivantes."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 26 anos, refere palpitações, sudorese, tremores, falta de ar e medo intenso de morrer ou perder o controle, que surgem subitamente e duram cerca de 15 minutos. Já teve crises antes, sem causa aparente."},
+      {"role": "assistant", "content": "Episódios recorrentes de medo ou desconforto intenso, acompanhados de sintomas físicos como palpitações, sudorese, tremores e falta de ar, com início súbito e pico em minutos, são característicos de **transtorno do pânico (ataques de pânico)**. Recomenda-se avaliação psiquiátrica e/ou psicológica para diagnóstico e tratamento, que pode incluir terapia e/ou medicação."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 58 anos, com história de etilismo crônico, apresenta aumento progressivo do volume abdominal, icterícia (pele e olhos amarelados) e edema (inchaço) nas pernas."},
+      {"role": "assistant", "content": "Aumento do volume abdominal (ascite), icterícia e edema de membros inferiores em um paciente com histórico de etilismo crônico são sinais de **cirrose hepática descompensada**. É fundamental avaliação por gastroenterologista/hepatologista para estadiamento, manejo das complicações e discussão sobre transplante hepático, se indicado."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 32 anos, queixa-se de visão embaçada, dor ao movimentar os olhos e perda de visão de cores em um dos olhos, com início gradual há alguns dias. Relata episódio de formigamento nas pernas há um ano, que resolveu espontaneamente."},
+      {"role": "assistant", "content": "Neurite óptica (visão embaçada, dor ocular, discromatopsia) em uma mulher jovem, especialmente com histórico de sintomas neurológicos prévios e transitórios, levanta a suspeita de **esclerose múltipla**. Recomenda-se avaliação neurológica urgente, incluindo ressonância magnética de crânio e órbitas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Lactente, 6 meses, apresenta tosse seca, coriza, febre baixa e chiado no peito há 2 dias. Dificuldade para mamar e respiração rápida."},
+      {"role": "assistant", "content": "Em um lactente de 6 meses, o quadro de tosse, coriza, febre baixa, sibilância e taquipneia (respiração rápida) é altamente sugestivo de **bronquiolite viral aguda**, comumente causada pelo Vírus Sincicial Respiratório (VSR). Recomenda-se avaliação pediátrica para verificar a necessidade de suporte respiratório ou internação, e orientar sobre cuidados domiciliares."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 23 anos, refere aparecimento de uma lesão única, indolor, com bordas elevadas e fundo limpo na região genital, cerca de 3 semanas após relação sexual desprotegida."},
+      {"role": "assistant", "content": "Uma lesão ulcerada única, indolor, de base endurecida, em região genital, após contato sexual de risco, é característica do **cancro duro, lesão primária da sífilis**. É crucial procurar avaliação médica para exames diagnósticos (VDRL, FTA-ABS) e tratamento com penicilina benzatina. Notificar parceiros sexuais."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 50 anos, apresenta dor e rigidez nos ombros e quadris, de forma simétrica, pior pela manhã, acompanhada de mal-estar, febre baixa e perda de peso. VHS e PCR elevados."},
+      {"role": "assistant", "content": "Dor e rigidez em cinturas escapular e pélvica, com sintomas sistêmicos e elevação de marcadores inflamatórios (VHS, PCR) em uma paciente acima de 50 anos, são sugestivos de **polimialgia reumática**. Resposta rápida a baixas doses de corticosteroides é característica. Avaliação reumatológica é indicada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 72 anos, queixa-se de jato urinário fraco, dificuldade para iniciar a micção, gotejamento no final e necessidade de urinar várias vezes à noite."},
+      {"role": "assistant", "content": "Os sintomas urinários obstrutivos (jato fraco, hesitação, gotejamento terminal) e irritativos (noctúria) em um homem idoso são característicos de **hiperplasia prostática benigna (HPB)**. Recomenda-se avaliação urológica para exame de toque retal, PSA e ultrassonografia, para excluir outras causas e iniciar tratamento, se necessário."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 45 anos, obesa, multípara, relata perda involuntária de urina ao tossir, espirrar ou fazer esforço físico."},
+      {"role": "assistant", "content": "A perda involuntária de urina aos esforços em uma paciente com fatores de risco como obesidade e multiparidade é diagnóstica de **incontinência urinária de esforço**. Fisioterapia pélvica (exercícios de Kegel) e mudanças no estilo de vida são a primeira linha de tratamento. Avaliação ginecológica ou urológica é recomendada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 31 anos, apresenta dor abdominal intensa no quadrante inferior direito, que iniciou ao redor do umbigo e migrou, acompanhada de náuseas, vômitos e febre baixa. Dor à descompressão brusca no local."},
+      {"role": "assistant", "content": "Dor abdominal que migra para fossa ilíaca direita, associada a náuseas, vômitos, febre e sinal de Blumberg positivo (dor à descompressão) é altamente sugestiva de **apendicite aguda**. É uma emergência cirúrgica. Procurar atendimento médico de urgência para avaliação e provável apendicectomia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 20 anos, com olhos vermelhos, lacrimejamento, coceira intensa e secreção aquosa em ambos os olhos. Espirros e coriza nasal também presentes. Sintomas pioram na primavera."},
+      {"role": "assistant", "content": "Hiperemia conjuntival bilateral, prurido ocular intenso, lacrimejamento e secreção aquosa, associados a sintomas nasais (espirros, coriza) e sazonalidade (piora na primavera), são característicos de **conjuntivite alérgica**. Colírios anti-histamínicos e/ou estabilizadores de mastócitos podem aliviar. Evitar coçar os olhos. Consultar oftalmologista se persistente."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 55 anos, relata dor tipo pontada no peito que piora com a respiração profunda ou tosse, e melhora ao inclinar o tronco para frente. Teve um resfriado forte na semana passada."},
+      {"role": "assistant", "content": "Dor torácica pleurítica (piora com inspiração profunda/tosse) que melhora com a inclinação do corpo para frente, especialmente após infecção viral recente, é sugestiva de **pericardite aguda**. Ausculta cardíaca pode revelar atrito pericárdico. Recomenda-se avaliação cardiológica com ECG e ecocardiograma."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 62 anos, diabética, refere aparecimento de lesões bolhosas dolorosas seguindo o trajeto de um nervo no lado esquerdo do tórax, precedidas por dor e formigamento no local por alguns dias."},
+      {"role": "assistant", "content": "O surgimento de erupção vesiculosa dolorosa em dermátomo (seguindo trajeto de nervo), unilateral, precedida por dor ou parestesia local, em paciente com imunidade comprometida (diabetes), é diagnóstico de **Herpes Zoster (cobreiro)**. Tratamento antiviral precoce (idealmente nas primeiras 72h) é crucial para reduzir a dor e o risco de neuralgia pós-herpética. Procurar médico imediatamente."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 28 anos, queixa-se de sensação de 'areia nos olhos', vermelhidão, secreção amarelada espessa que 'cola' as pálpebras ao acordar, em um olho, que passou para o outro. Contato com pessoa com sintomas semelhantes."},
+      {"role": "assistant", "content": "Conjuntivite com secreção purulenta (amarelada, espessa), sensação de corpo estranho e histórico de contágio sugere **conjuntivite bacteriana**. Recomenda-se higiene ocular rigorosa (lavar as mãos, não compartilhar toalhas) e avaliação médica para possível prescrição de colírio antibiótico."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente feminina, 37 anos, relata dor pélvica crônica, pior durante a menstruação (dismenorreia intensa), dor durante relações sexuais (dispareunia de profundidade) e dificuldade para engravidar."},
+      {"role": "assistant", "content": "Dor pélvica crônica, dismenorreia severa, dispareunia de profundidade e infertilidade são sintomas clássicos de **endometriose**. A avaliação ginecológica com exames de imagem (ultrassonografia transvaginal com preparo intestinal, ressonância magnética) e, por vezes, laparoscopia são necessários para diagnóstico e planejamento terapêutico."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente masculino, 60 anos, fumante, apresenta rouquidão persistente há mais de 3 semanas, sem outros sintomas gripais. Refere leve dificuldade para engolir alimentos sólidos."},
+      {"role": "assistant", "content": "Rouquidão persistente (disfonia) por mais de 2-3 semanas, especialmente em um paciente fumante, associada a disfagia, é um sinal de alerta para **câncer de laringe** ou outras neoplasias de cabeça e pescoço. É imprescindível uma avaliação otorrinolaringológica com laringoscopia o mais breve possível."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Criança, 4 anos, com obstrução nasal, secreção nasal purulenta, tosse que piora à noite e dor facial/cefaleia há 10 dias. Febre persistente."},
+      {"role": "assistant", "content": "Persistência de sintomas de IVAS (obstrução nasal, rinorreia purulenta, tosse) por mais de 10 dias, ou piora após melhora inicial, associada a dor facial e febre, sugere **rinossinusite bacteriana aguda**. Avaliação pediátrica é indicada para confirmar e decidir sobre antibioticoterapia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 28 anos, com história de SOP, refere aumento de pelos faciais e corporais, acne persistente e irregularidade menstrual (ciclos > 35 dias)."},
+      {"role": "assistant", "content": "Hirsutismo (aumento de pelos), acne e oligomenorreia (irregularidade menstrual) em uma paciente com diagnóstico prévio ou suspeita de Síndrome dos Ovários Policísticos (SOP) são manifestações do hiperandrogenismo característico da **Síndrome dos Ovários Policísticos (SOP)**. Manejo inclui modificações de estilo de vida, contraceptivos orais e/ou antiandrogênicos. Acompanhamento ginecológico/endocrinológico é fundamental."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 44 anos, jogador de tênis amador, queixa-se de dor na parte lateral do cotovelo que piora ao segurar objetos, girar a maçaneta ou estender o punho contra resistência."},
+      {"role": "assistant", "content": "Dor na região do epicôndilo lateral do cotovelo, exacerbada por movimentos de preensão e extensão do punho, é característica de **epicondilite lateral (cotovelo de tenista)**. Repouso relativo, gelo, anti-inflamatórios e fisioterapia são as bases do tratamento. Consultar ortopedista se não houver melhora."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 30 anos, relata aparecimento de uma 'bolinha' endurecida e dolorosa na pálpebra, com vermelhidão e inchaço local. Sem alteração visual."},
+      {"role": "assistant", "content": "Nódulo palpebral agudo, doloroso, avermelhado e edemaciado é característico de **hordéolo (terçol)**, uma infecção de uma glândula da pálpebra. Compressas mornas podem ajudar na drenagem. Se não melhorar em poucos dias ou se houver piora, consultar oftalmologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 67 anos, queixa-se de dor súbita e intensa na região lombar, tipo 'facada', que irradia para o flanco e região inguinal, acompanhada de náuseas e agitação. Sem posição de alívio."},
+      {"role": "assistant", "content": "Dor lombar ou em flanco, de início súbito, excruciante, com irradiação para região inguinal ou genitais, associada a náuseas e vômitos, é altamente sugestiva de **cólica renal (nefrolitíase/urolitíase)**. Analgesia potente é necessária. Avaliação médica urgente com exames de imagem (ultrassom ou tomografia) para confirmar e avaliar o tamanho e localização do cálculo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 22 anos, estudante, refere tristeza persistente, perda de interesse e prazer nas atividades, dificuldade de concentração, alterações no sono e apetite, e fadiga há mais de um mês. Pensamentos negativos sobre si mesma."},
+      {"role": "assistant", "content": "Humor deprimido, anedonia (perda de prazer), alterações cognitivas (concentração), alterações neurovegetativas (sono, apetite, energia) e cognições negativas persistentes por mais de duas semanas são critérios para **episódio depressivo maior**. É fundamental procurar avaliação psiquiátrica e/ou psicológica para diagnóstico adequado e início de tratamento (psicoterapia e/ou farmacoterapia)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 10 anos, apresenta inchaço e dor em um dos testículos, de início gradual, com vermelhidão local e febre baixa. Nega trauma."},
+      {"role": "assistant", "content": "Dor e edema testicular unilateral de início gradual, com febre e sinais inflamatórios locais em uma criança, sugere **orquiepididimite**. É importante diferenciar de torção testicular (que é mais aguda e sem febre inicialmente). Avaliação médica urológica ou pediátrica urgente é necessária, incluindo ultrassonografia testicular com Doppler para excluir torção."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Seu objetivo é fornecer informações gerais sobre possíveis condições com base nos sintomas descritos e diagnósticos definitivos."},
+      {"role": "user", "content": "Paciente feminina, 40 anos, relata formigamento e dor tipo queimação nas mãos, principalmente nos três primeiros dedos, que piora à noite e com atividades manuais repetitivas. Sacudir as mãos alivia."},
+      {"role": "assistant", "content": "Parestesia (formigamento) e dor na distribuição do nervo mediano (polegar, indicador, dedo médio e metade do anular), com piora noturna e alívio com o 'sinal de Flick' (sacudir as mãos), são característicos da **Síndrome do Túnel do Carpo**. Avaliação com eletroneuromiografia pode confirmar. Tratamento conservador ou cirúrgico pode ser indicado. Consultar ortopedista ou neurologista."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "Atue como um assistente de IA com conhecimento médico. Analise sintomas e forneça diagnósticos e informações sobre condições médicas."},
+      {"role": "user", "content": "Paciente masculino, 5 anos, com febre alta, tosse 'de cachorro', rouquidão e estridor inspiratório (barulho ao inspirar), principalmente à noite."},
+      {"role": "assistant", "content": "O quadro de febre, tosse ladrante (comparada a latido de cachorro), rouquidão e estridor inspiratório em uma criança pequena é clássico de **laringite estridulosa (crupe viral)**. A maioria dos casos é leve e pode ser manejada em casa com umidificação do ar e antitérmicos. Se houver desconforto respiratório importante ou estridor em repouso, procurar atendimento médico imediato."}
+    ]
+  }
+]
